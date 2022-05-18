@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font-family: "Special Elite", cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.Weather {
+  position: relative;
+  left: 400px;
+  bottom: 250px;
+}

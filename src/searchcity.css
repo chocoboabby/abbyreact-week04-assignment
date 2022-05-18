@@ -1,0 +1,17 @@
+.SearchCity {
+  position: relative;
+  top: 15px;
+  left: 400px;
+}
+
+.SearchCity .locationPin {
+  color: red;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  font-size: 30px;
+}
+
+.SearchCity .locationPin:hover {
+  color: gray;
+}
